@@ -57,4 +57,4 @@ This system introduces an **"AI Visibility Score" (0-10)**. It queries LLMs to s
 ## 👤 Author
 
 **Syed Shahid Ali** Founder @ CodeFlow Nexus | Building AI-Driven Automation & Scalable Software Systems  
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/syedshahidali1/) to see more AI automation builds.*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/syed-shahid-ali-ssa/) to see more AI automation builds.*
