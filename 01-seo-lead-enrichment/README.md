@@ -54,24 +54,6 @@ This system introduces an **"AI Visibility Score" (0-10)**. It queries LLMs to s
 
 ---
 
-## 📦 Repository Contents
-
-* `Alpha _ QuiliusAI lead enrichment NL market - Shahid copy (6).json`: The complete n8n workflow export. 
-
-## 🚀 Setup & Installation
-
-1. Clone this repository.
-2. Open your n8n instance.
-3. Click on **Workflow > Import from File** and select the `.json` file.
-4. Update the **Credentials** for:
-    * Google Sheets OAuth2 API
-    * OpenAI API
-    * DataForSEO HTTP Header Auth
-5. Create a Google Sheet with the required columns (`email`, `firstName`, `companyName`, `companyDomain`, `Profile language`, etc.) and link it to the Google Sheets nodes.
-6. Activate the workflow!
-
----
-
 ## 👤 Author
 
 **Syed Shahid Ali** Founder @ CodeFlow Nexus | Building AI-Driven Automation & Scalable Software Systems  
