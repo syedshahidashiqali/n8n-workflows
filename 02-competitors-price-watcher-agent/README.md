@@ -2,7 +2,7 @@
 
 **Real-time market intelligence to prevent pricing disruptions and monitor retailer compliance.**
 
-This project is a multi-stage automation pipeline built for a Dutch wholesale distributor (Movidis). It automatically discovers product pages across major retail partners, verifies the matches using AI, and monitors sales prices multiple times a day to instantly catch unauthorized price drops.
+This project is a multi-stage automation pipeline built for a Dutch wholesale distributor. It automatically discovers product pages across major retail partners, verifies the matches using AI, and monitors sales prices multiple times a day to instantly catch unauthorized price drops.
 
 ---
 
